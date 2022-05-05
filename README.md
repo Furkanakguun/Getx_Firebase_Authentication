@@ -1,4 +1,4 @@
-# petapp
+# Getx Authentication With Firebase
 
 A new Flutter project.
 
